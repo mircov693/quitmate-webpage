@@ -2,7 +2,8 @@
   <a><img src="appicon.png" alt="App icon"></a>
   <a class="button"
      routerLinkActive="selected"
-     routerLink="/home">Home</a>
+     [routerLinkActiveOptions]="{ exact: true }"
+     routerLink="/">Home</a>
   <a class="button"
      routerLinkActive="selected"
      routerLink="/privacy">Privacy</a>
