@@ -1,26 +1,40 @@
 nav {
-  background: lightslategray;
+  /*background: lightslategray;*/
   height: 60px;
   display: flex;
-  list-style-type: none;
-  align-content: center;
-  padding: 0;
+  justify-content: space-between;
+  /*border: 1px solid black;*/
+}
+div.start {
+  /*border: 1px solid black;*/
+  align-items: center;
+  display: inline-flex;
 }
 a {
-  height: 100%;
+  display: inline-flex;
   align-items: center;
+  height: 100%;
   padding-right: 10px;
   padding-left: 10px;
-  display: flex;
+  text-decoration: none;
+  color: gray;
 }
 .selected {
-  background: white;
+  border-bottom: 2px solid white;
+  padding-bottom: -5px;
+  color: white;
 }
 a.button:not(.selected):hover {
-  background: pink;
+  border-bottom: 2px solid cyan;
+  padding-bottom: -5px;
+  color: cyan;
 }
 img {
   height: 40px;
   width: 40px;
   border-radius: 8px;
+  display: block;
+}
+.app-name {
+  padding-left: 10px;
 }

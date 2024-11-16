@@ -1,14 +1,19 @@
 <nav>
-  <a><img src="appicon.png" alt="App icon"></a>
-  <a class="button"
-     routerLinkActive="selected"
-     [routerLinkActiveOptions]="{ exact: true }"
-     routerLink="/">Home</a>
-  <a class="button"
-     routerLinkActive="selected"
-     routerLink="/privacy">Privacy</a>
-  <a class="button"
-     routerLinkActive="selected"
-     routerLink="/support">Support</a>
+  <div class="start">
+    <img src="appicon.png" alt="App icon">
+    <h3 class="app-name">QuitMate</h3>
+  </div>
+  <div class="end">
+    <a class="button"
+       routerLinkActive="selected"
+       [routerLinkActiveOptions]="{ exact: true }"
+       routerLink="/">Home</a>
+    <a class="button"
+       routerLinkActive="selected"
+       routerLink="/privacy">Privacy</a>
+    <a class="button"
+       routerLinkActive="selected"
+       routerLink="/support">Support</a>
+  </div>
 </nav>
 
