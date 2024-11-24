@@ -11,40 +11,54 @@ nav {
 }
 
 .icon img {
-  width: 35px;
-  height: 35px;
+  width: 2.5rem;
+  height: 2.5rem;
   border-radius: 10px;
+}
+
+.app-name {
+  margin: 0 1rem;
 }
 
 .menu {
   display: none;
 }
 
+.links {
+  display: flex;
+}
+
+.link {
+  padding: 0.8rem 1rem;
+  text-decoration: none;
+  color: gray;
+}
+
+.link.selected,
+.link:hover {
+  color: #01A0D3;
+  border-bottom: 1px solid #01A0D3;
+}
+
 @media (max-width: 600px) {
   .menu {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
-    width: 50%;
-    order: 1;
   }
 
   .menu-line {
-    height: 3px;
-    width: 35px;
+    height: 0.18rem;
+    width: 2rem;
     background-color: black;
     border-radius: 10px;
     margin: 3px 0;
-    align-self: flex-end;
-  }
-
-  .icon {
-    width: 50%;
-    order: 1;
   }
 
   .links {
+    flex-direction: column;
     order: 2;
+    align-items: center;
+    width: 100%;
   }
 
   .hide {
