@@ -15,11 +15,11 @@ body {
         display: flex;
         align-items: center;
         gap: 5px 10px;
-    }
 
-    .appLabelImg {
-        border-radius: 10px;
-        max-width: 32px;
+        img {
+            border-radius: 10px;
+            max-width: 32px;
+        }
     }
 
     .menu {
