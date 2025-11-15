@@ -9,16 +9,16 @@ body {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    padding: 0 10px 0;
+    padding: 0 1rem 0;
 
     .appLabel {
         display: flex;
         align-items: center;
-        gap: 5px 10px;
+        gap: 0.5rem;
 
         img {
-            border-radius: 10px;
-            max-width: 32px;
+            border-radius: 0.5rem;
+            max-width: 2.5rem;
         }
     }
 
@@ -63,6 +63,27 @@ body {
             align-items: center;
         }
     }
+}
+
+section {
+    padding: 3rem;
+}
+
+.badge {
+    display: inline-block;
+    padding: .35rem .6rem;
+    border: 1px solid rgba(148,163,184,.25);
+    border-radius: 1rem;
+}
+
+.badge-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+}
+
+.spacing-block {
+    padding: 0 0 2rem;
 }
 
 .footer {
