@@ -13,7 +13,7 @@ body {
     justify-content: space-between;
     padding: 0 1rem 0;
 
-    .appLabel {
+    .app-label {
         display: flex;
         align-items: center;
         gap: 0.5rem;
@@ -35,7 +35,7 @@ body {
         }
     }
 
-    .menuMobile {
+    .menu-mobile {
         display: flex;
         list-style-type: none;
         gap: 5px 10px;
@@ -59,7 +59,7 @@ body {
             display: none;
         }
 
-        .menuMobile {
+        .menu-mobile {
             flex-direction: column;
             width: 100%;
             align-items: center;
