@@ -83,7 +83,18 @@ section {
 }
 
 .spacing-block {
-    padding: 0 0 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem 0 2rem 0;
+    gap: 2rem;
+}
+
+.image {
+    background: linear-gradient(180deg, rgba(148,163,184,.09), rgba(148,163,184,.03));
+    border:1px solid rgba(148,163,184,.12);
+    border-radius: 1rem;
+    padding:1rem;
+    box-shadow: 0 10px 25px rgba(2, 8, 23, .45);;
 }
 
 .footer {
