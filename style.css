@@ -32,6 +32,12 @@ body {
         a {
             text-decoration: none;
             color: gray;
+            transition: transform 0.2s ease;
+        }
+
+        a:hover {
+            color: #007979;
+            transform: scale(1.1);
         }
     }
 
@@ -43,6 +49,12 @@ body {
         a {
             text-decoration: none;
             color: gray;
+            transition: transform 0.2s ease;
+        }
+
+        a:hover {
+            color: #007979;
+            transform: scale(1.1);
         }
     }
 
