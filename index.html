@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
-    <script src="script.js"></script>
     <title>QuitMate</title>
 </head>
 
@@ -16,10 +15,10 @@
         <p>QuitMate</p>
     </div>
 
-    <a class="burger-menu" onclick="showHideMenu()">
-        <div class="burger-menu-item"></div>
-        <div class="burger-menu-item"></div>
-        <div class="burger-menu-item"></div>
+    <a class="burger-menu">
+        <div class="burger-menu-item one"></div>
+        <div class="burger-menu-item two"></div>
+        <div class="burger-menu-item tree"></div>
     </a>
 
     <div class="menu" id="menu">
@@ -257,8 +256,9 @@
 
 <div class="footer">
     <p>Vladimir Cabacov &#169; <span id="year">year</span></p>
-    <script>document.getElementById("year").textContent = new Date().getFullYear().toString()</script>
 </div>
+
+<script src="script.js"></script>
 
 </body>
 

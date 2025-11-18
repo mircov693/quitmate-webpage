@@ -44,6 +44,7 @@ body {
 
 .navbar .burger-menu {
     display: none;
+    cursor: pointer;
 }
 
 .navbar .burger-menu-item {
@@ -52,6 +53,19 @@ body {
     background-color: white;
     margin: .3rem 0;
     border-radius: 1rem;
+    transition: 0.4s;
+}
+
+.open .burger-menu-item.one {
+    transform: translate(0, 7px) rotate(-45deg);
+}
+
+.open .burger-menu-item.two {
+    opacity: 0;
+}
+
+.open .burger-menu-item.tree {
+    transform: translate(0, -7px) rotate(45deg);
 }
 
 .card-list {
