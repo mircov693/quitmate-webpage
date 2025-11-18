@@ -1,8 +1,7 @@
+document.querySelector('.burger-menu').addEventListener('click', showHideMenu);
+
 function showHideMenu() {
     const menu = document.getElementById("menu");
-    if (menu.className === "menu") {
-        menu.className += "-mobile"
-    } else {
-        menu.className = "menu"
-    }
+    const isOpen = menu.classList.toggle("open");
+    document.querySelector('.burger-menu').setAttribute('aria-expanded', isOpen.toString());
 }
