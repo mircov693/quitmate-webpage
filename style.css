@@ -124,15 +124,25 @@ section {
 .spacing-block {
     display: flex;
     justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
     padding: 2rem 0 2rem 0;
     gap: 2rem;
 }
 
 .image {
-    border:1px solid var(--dark-gray-color);
-    border-radius: 1rem;
-    padding:1rem;
+    display: flex;
+    justify-content: center;
+    
+    max-width: 300px;
+}
+
+.image img {
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: contain;
+
+    border-radius: 1rem;    
     box-shadow: 0 10px 25px black;
 }
 
