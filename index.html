@@ -232,10 +232,17 @@
     </div>
 </section>
 
+<section class="legal-notice">
+    <h2 data-i18n="legal-notice"></h2>
+    <p>Vorname Nachname</p>
+    <p>Straße Hausnummer, PLZ Stadt</p>
+    <p>nfalter1993@gmail.com</p>
+    <p>Steuer-ID: 123456789</p>
+</section>
+
 <div class="footer">
     <p>Vladimir Cabacov &#169; <span id="year">year</span></p>
-    <label for="languages"></label>
-    <select name="languages" id="languages" onchange="changeLanguage(this.value)">
+    <select id="languages" name="languages" aria-label="Language" onchange="changeLanguage(this.value)">
         <option value="en">English</option>
         <option value="de">Deutsch</option>
     </select>
