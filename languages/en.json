@@ -9,7 +9,7 @@
 
   "badge-countdown": "Countdown until the next session",
   "badge-statistic": "Interactive statistics",
-  "badge-watch": "Apple Watch support",
+  "badge-watch": "Watch OS/Wear OS support",
   "badge-iqos": "IQOS support",
 
   "motivation-title": "Why QuitMate?",
@@ -30,21 +30,19 @@
   "function-statistic-title": "Statistics View",
   "function-statistic-description": "Day/Month/Year overview, scrollable charts, averages, cost calculation, and list of today's sessions (incl. deletion).",
   "function-settings-title": "Settings",
-  "function-settings-description": "Reduction plan, fixed limits with automatic intervals, notifications, design, Live Activities.",
-  "function-widgets-title": "Widgets & Live Activities",
+  "function-settings-description": "Reduction plan, fixed limits with automatic intervals, notifications, design.",
+  "function-widgets-title": "Widgets",
   "function-widgets-description": "All widget types, Lock Screen live timer, device widget with battery status – information at a glance.",
-  "function-watch-title": "Apple Watch App",
+  "function-watch-title": "Watch OS/Wear OS App",
   "function-watch-description": "Countdown, daily limit, last session, entry button, device overview with charging status – right on your wrist.",
 
   "widgets-title": "Always informed – without opening the app",
-  "widgets-description": "Home Screen and device widgets, Live Activities, and Apple Watch widgets keep your progress right at your fingertips.",
+  "widgets-description": "Home Screen and device widgets, and Watch OS/Wear OS widgets keep your progress right at your fingertips.",
   "widget-actual-title": "Status Widget",
   "widget-actual-description": "Daily stats & countdown at a glance.",
   "widget-device-title": "Device Widget",
   "widget-device-description": "Displays a device's battery level.",
-  "widget-live-title": "Live Activity",
-  "widget-live-description": "Timer until the next session on the Lock Screen and in the Dynamic Island.",
-  "widget-watch-title": "Apple Watch",
+  "widget-watch-title": "Watch OS/Wear OS",
   "widget-watch-description": "Countdown & device charging status right on your wrist.",
 
   "integrations-title": "IQOS Integration – Connected and Beyond",
@@ -60,7 +58,7 @@
   "privacy-update": "This policy will be updated if the app's privacy practices change.",
 
   "download-title": "Ready to take the first step?",
-  "download-description": "Download QuitMate on the App Store and start your personal plan today.",
+  "download-description": "Download QuitMate and start your personal plan today.",
   "download": "Download",
 
   "faq-title": "FAQ",
@@ -78,20 +76,17 @@
   "faq-answer-device-battery-low": "No, that is not recommended. If the battery is completely drained, the connection may be lost.",
   "faq-question-connection-issue": "What should I do if my device is disconnected?",
   "faq-answer-connection-issue": "If the connection fails even after automatic reconnection attempts, turn the device off and on again.",
-  "faq-question-watch-companion": "Does the watchOS app work without the iOS app?",
-  "faq-answer-watch-companion": "No, the watchOS app requires an active connection to the iOS app to display data and device information.",
+  "faq-question-watch-companion": "Does the Watch OS/Wear OS app work without the iOS/Android app?",
+  "faq-answer-watch-companion": "No, the Watch OS/Wear OS app requires an active connection to the iOS/Android app to display data and device information.",
   "faq-question-device-settings": "When can I change my IQOS device settings?",
-  "faq-answer-device-settings": "Device settings can only be changed when the device is connected and the Holder is inside the charging case (except for IQOS ILUMA One).",
+  "faq-answer-device-settings": "Device settings can only be changed when the device is connected and the Holder is inside the charging case (except for IQOS ILUMA ONE).",
   "faq-question-background-task": "What is the background process for?",
   "faq-answer-background-task": "The background process generates a daily summary of your sessions for the previous day.",
   "faq-question-double-session-recognition": "What is Double Session Recognition?",
   "faq-answer-double-session-recognition": "For IQOS devices, this feature automatically adds all sessions once the Holder is recharged in the charging case.",
-  "faq-question-live-activity-background": "Why doesn't the Live Activity start automatically in the background?",
-  "faq-answer-live-activity-background": "Due to technical limitations, Live Activities can only be updated within 8 hours of starting. They do not start automatically when a session is detected in the background.",
   "faq-question-privacy": "What data does the app collect?",
   "faq-answer-privacy": "The app only stores the information you enter. No personal data is sent to third parties or stored on servers.",
 
   "widgets": "Widgets",
-  "live-activities": "Live Activities",
   "legal-notice": "Legal Notice"
 }
