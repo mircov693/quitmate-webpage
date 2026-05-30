@@ -82,7 +82,7 @@ body {
     gap: 1rem;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 750px) {
     .navbar .menu {
         display: none;
         flex-direction: column;
