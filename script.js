@@ -44,5 +44,5 @@ window.addEventListener('DOMContentLoaded', async () => {
     document.getElementById('languages').value = userPreferredLanguage
     const langData = await fetchLanguageData(userPreferredLanguage);
     updateContent(langData);
-    updateBadges(queryLanguage);
+    updateBadges(userPreferredLanguage);
 });
