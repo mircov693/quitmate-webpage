@@ -45,8 +45,8 @@
   "widget-watch-title": "watchOS/Wear OS",
   "widget-watch-description": "Зворотний відлік і статус заряджання пристрою – прямо на зап’ясті.",
 
-  "integrations-title": "Інтеграція з IQOS – підключення та контроль",
-  "integrations-description": "Підключайте, відстежуйте та керуйте своїми пристроями IQOS безпосередньо в QYSH.",
+  "integrations-title": "Сумісність пристроїв IQOS",
+  "integrations-description": "Моніторте та керуйте сумісними пристроями IQOS через QYSH.",
   "integration-auto-count": "Автоматичний підрахунок сесій під час використання",
   "integration-status": "Рівень заряду та статус підключення",
   "integration-notifications": "Сповіщення: пристрій не в зарядному кейсі, втрачено підключення, низький/повний заряд",

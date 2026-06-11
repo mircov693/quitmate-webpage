@@ -45,8 +45,8 @@
   "widget-watch-title": "watchOS/Wear OS",
   "widget-watch-description": "Geri sayım ve cihazın şarj durumu – doğrudan bileğinde.",
 
-  "integrations-title": "IQOS entegrasyonu – bağlı ve kontrol altında",
-  "integrations-description": "IQOS cihazlarını QYSH içinde doğrudan bağla, takip et ve kontrol et.",
+  "integrations-title": "IQOS Cihaz Uyumluluğu",
+  "integrations-description": "QYSH aracılığıyla uyumlu IQOS cihazlarınızı izleyin ve kontrol edin.",
   "integration-auto-count": "Kullanım sırasında oturumların otomatik sayımı",
   "integration-status": "Pil seviyesi ve bağlantı durumu",
   "integration-notifications": "Bildirimler: şarj cihazında değil, bağlantı kesildi, pil düşük/dolu",

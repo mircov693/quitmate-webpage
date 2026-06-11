@@ -45,8 +45,8 @@
   "widget-watch-title": "watchOS/Wear OS",
   "widget-watch-description": "Nedtælling og enhedens ladestatus – direkte på håndleddet.",
 
-  "integrations-title": "IQOS‑integration – forbundet og under kontrol",
-  "integrations-description": "Forbind, overvåg og styr dine IQOS‑enheder direkte i QYSH.",
+  "integrations-title": "IQOS-enhedskompatibilitet",
+  "integrations-description": "Overvåg og kontrollér dine kompatible IQOS-enheder via QYSH.",
   "integration-auto-count": "Automatisk optælling af sessioner under brug",
   "integration-status": "Batteriniveau og forbindelsesstatus",
   "integration-notifications": "Notifikationer: ikke i opladeren, forbindelse tabt, lav/fuld batteristatus",

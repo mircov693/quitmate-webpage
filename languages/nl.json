@@ -45,8 +45,8 @@
   "widget-watch-title": "watchOS/Wear OS",
   "widget-watch-description": "Afteltimer en laadstatus van het apparaat – direct op je pols.",
 
-  "integrations-title": "IQOS‑integratie – verbonden en in controle",
-  "integrations-description": "Verbind, monitor en beheer je IQOS‑apparaten rechtstreeks in QYSH.",
+  "integrations-title": "IQOS-apparaatcompatibiliteit",
+  "integrations-description": "Bewaak en bestuur compatibele IQOS-apparaten via QYSH.",
   "integration-auto-count": "Automatisch tellen van sessies tijdens gebruik",
   "integration-status": "Batterijniveau en verbindingsstatus",
   "integration-notifications": "Meldingen: niet in de oplader, verbinding verbroken, batterij bijna leeg/vol",

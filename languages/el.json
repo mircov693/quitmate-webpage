@@ -45,8 +45,8 @@
   "widget-watch-title": "watchOS/Wear OS",
   "widget-watch-description": "Αντίστροφη μέτρηση & κατάσταση φόρτισης της συσκευής – απευθείας στον καρπό σου.",
 
-  "integrations-title": "Ενσωμάτωση IQOS – συνδεδεμένο και υπό έλεγχο",
-  "integrations-description": "Σύνδεσε, παρακολούθησε και έλεγξε τις συσκευές IQOS σου απευθείας μέσα από το QYSH.",
+  "integrations-title": "Συμβατότητα συσκευής IQOS",
+  "integrations-description": "Παρακολουθήστε και ελέγχετε τις συμβατές συσκευές IQOS μέσω QYSH.",
   "integration-auto-count": "Αυτόματη καταμέτρηση συνεδριών κατά τη χρήση",
   "integration-status": "Επίπεδο μπαταρίας & κατάσταση σύνδεσης",
   "integration-notifications": "Ειδοποιήσεις: δεν βρίσκεται στη βάση φόρτισης, χάθηκε η σύνδεση, χαμηλή/πλήρης μπαταρία",

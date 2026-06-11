@@ -45,8 +45,8 @@
   "widget-watch-title": "watchOS / Wear OS",
   "widget-watch-description": "Visszaszámlálás és az eszköz töltöttségi állapota – a csuklódon.",
 
-  "integrations-title": "IQOS‑integráció – csatlakoztatva és felügyelet alatt",
-  "integrations-description": "Csatlakoztasd, kövesd nyomon és vezéreld IQOS eszközeidet közvetlenül a QYSH‑ben.",
+  "integrations-title": "IQOS-eszköz kompatibilitas",
+  "integrations-description": "Figyelje meg és vezérelje az IQOS-kompatibilis eszközöket a QYSH-on keresztül.",
   "integration-auto-count": "Alkalmak automatikus számlálása használat közben",
   "integration-status": "Akkumulátorszint és kapcsolati állapot",
   "integration-notifications": "Értesítések: nincs a töltőben, kapcsolat megszakadt, alacsony / teljesen feltöltött akkumulátor",

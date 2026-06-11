@@ -45,8 +45,8 @@
   "widget-watch-title": "watchOS/Wear OS",
   "widget-watch-description": "Cuenta atrás y estado de carga del dispositivo, directamente en tu muñeca.",
 
-  "integrations-title": "Integración con IQOS: conectado y bajo control",
-  "integrations-description": "Conecta, supervisa y controla tus dispositivos IQOS directamente desde QYSH.",
+  "integrations-title": "Compatibilidad con dispositivos IQOS",
+  "integrations-description": "Supervisa y controla tus dispositivos IQOS compatibles a través de QYSH.",
   "integration-auto-count": "Conteo automático de sesiones durante el uso",
   "integration-status": "Nivel de batería y estado de la conexión",
   "integration-notifications": "Notificaciones: fuera del cargador, conexión perdida, batería baja/llena",

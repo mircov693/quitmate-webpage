@@ -45,8 +45,8 @@
   "widget-watch-title": "watchOS/Wear OS",
   "widget-watch-description": "Odpočítavanie a stav nabitia zariadenia – priamo na zápästí.",
 
-  "integrations-title": "Integrácia IQOS – pripojené a pod kontrolou",
-  "integrations-description": "Pripájaj, sleduj a ovládaj svoje zariadenia IQOS priamo v QYSH.",
+  "integrations-title": "Kompatibilita zariadení IQOS",
+  "integrations-description": "Monitorujte a ovládajte kompatibilné zariadenia IQOS cez QYSH.",
   "integration-auto-count": "Automatické počítanie relácií počas používania",
   "integration-status": "Úroveň nabitia batérie a stav pripojenia",
   "integration-notifications": "Upozornenia: mimo nabíjačky, pripojenie stratené, nízka/plná batéria",

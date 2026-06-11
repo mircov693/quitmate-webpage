@@ -45,8 +45,8 @@
   "widget-watch-title": "watchOS/Wear OS",
   "widget-watch-description": "Hitung mundur & status pengisian daya perangkat langsung di pergelangan tangan Anda.",
 
-  "integrations-title": "Integrasi IQOS – terhubung dan lebih dari itu",
-  "integrations-description": "Hubungkan, pantau, dan kendalikan perangkat IQOS Anda langsung di QYSH.",
+  "integrations-title": "Kompatibilitas Perangkat IQOS",
+  "integrations-description": "Pantau dan kontrol perangkat IQOS yang kompatibel melalui QYSH.",
   "integration-auto-count": "Penghitungan sesi otomatis selama penggunaan",
   "integration-status": "Level baterai & status koneksi",
   "integration-notifications": "Notifikasi: tidak dalam pengisi daya, koneksi terputus, baterai lemah/penuh",

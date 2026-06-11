@@ -45,8 +45,8 @@
   "widget-watch-title": "watchOS/Wear OS",
   "widget-watch-description": "Numărătoare inversă și statusul încărcării dispozitivului – direct pe încheietură.",
 
-  "integrations-title": "Integrare IQOS – conectat și sub control",
-  "integrations-description": "Conectează, monitorizează și controlează dispozitivele IQOS direct în QYSH.",
+  "integrations-title": "Compatibilitate dispozitive IQOS",
+  "integrations-description": "Monitorizați și controlați dispozitivele IQOS compatibile prin QYSH.",
   "integration-auto-count": "Numărare automată a sesiunilor în timpul utilizării",
   "integration-status": "Nivelul bateriei și starea conexiunii",
   "integration-notifications": "Notificări: nu este în încărcător, conexiune pierdută, baterie scăzută/plină",

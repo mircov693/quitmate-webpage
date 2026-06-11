@@ -45,8 +45,8 @@
   "widget-watch-title": "watchOS/Wear OS",
   "widget-watch-description": "Nedräkning och enhetens laddningsstatus – direkt på handleden.",
 
-  "integrations-title": "IQOS‑integration – uppkopplad och under kontroll",
-  "integrations-description": "Anslut, övervaka och styr dina IQOS‑enheter direkt i QYSH.",
+  "integrations-title": "IQOS-enhetskompatibilitet",
+  "integrations-description": "Övervaka och kontrollera dina kompatibla IQOS-enheter via QYSH.",
   "integration-auto-count": "Automatisk räkning av tillfällen under användning",
   "integration-status": "Batterinivå och anslutningsstatus",
   "integration-notifications": "Aviseringar: inte i laddaren, anslutning tappad, låg/full batterinivå",
